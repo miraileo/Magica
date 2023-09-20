@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sphere
+  - Enemy
+  - Undefined
+  - MeteorField
+  - IceField
+  - Blast
+  - RockArea
+  - CinemachineTarget
+  - MeteorUlti
+  - Fire
+  - FxTemporaire
+  - Shop
+  - Dragon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - pp
+  - Player
+  - exort
+  - FireElemental
+  - IceElemental
+  - EarthElemental
+  - quas
+  - wex
+  - MeteorUlti
+  - postLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
